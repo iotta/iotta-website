@@ -1,0 +1,148 @@
+<h2>Wat komt er in de hero op de homepage?</h2>
+<p class="subtitle">De wireframe zegt "abstracte illustratie" — wat voor soort visueel element past het beste?</p>
+
+<div class="cards">
+
+  <div class="card" data-choice="a" onclick="toggleSelect(this)">
+    <div class="card-image" style="background:#0d0d0d; padding:20px; font-family:sans-serif; border-radius:6px; min-height:160px; display:flex; align-items:center; justify-content:center;">
+      <!-- SVG illustration mockup -->
+      <svg width="200" height="120" viewBox="0 0 200 120" xmlns="http://www.w3.org/2000/svg">
+        <!-- Building outline -->
+        <rect x="60" y="30" width="80" height="80" rx="2" fill="none" stroke="#333" stroke-width="1.5"/>
+        <!-- Windows -->
+        <rect x="70" y="42" width="14" height="12" rx="1" fill="#8DC63F" opacity="0.8"/>
+        <rect x="90" y="42" width="14" height="12" rx="1" fill="#8DC63F" opacity="0.4"/>
+        <rect x="110" y="42" width="14" height="12" rx="1" fill="#8DC63F" opacity="0.6"/>
+        <rect x="70" y="62" width="14" height="12" rx="1" fill="#8DC63F" opacity="0.3"/>
+        <rect x="90" y="62" width="14" height="12" rx="1" fill="#8DC63F" opacity="0.9"/>
+        <rect x="110" y="62" width="14" height="12" rx="1" fill="#8DC63F" opacity="0.5"/>
+        <!-- Sensor dots with pulse rings -->
+        <circle cx="77" cy="20" r="4" fill="#8DC63F"/>
+        <circle cx="77" cy="20" r="8" fill="none" stroke="#8DC63F" stroke-width="1" opacity="0.5"/>
+        <circle cx="100" cy="15" r="4" fill="#8DC63F"/>
+        <circle cx="100" cy="15" r="8" fill="none" stroke="#8DC63F" stroke-width="1" opacity="0.5"/>
+        <circle cx="123" cy="20" r="4" fill="#8DC63F"/>
+        <circle cx="123" cy="20" r="8" fill="none" stroke="#8DC63F" stroke-width="1" opacity="0.5"/>
+        <!-- Data lines -->
+        <line x1="77" y1="20" x2="77" y2="42" stroke="#8DC63F" stroke-width="0.8" stroke-dasharray="3,2" opacity="0.6"/>
+        <line x1="100" y1="15" x2="100" y2="42" stroke="#8DC63F" stroke-width="0.8" stroke-dasharray="3,2" opacity="0.6"/>
+        <line x1="123" y1="20" x2="123" y2="42" stroke="#8DC63F" stroke-width="0.8" stroke-dasharray="3,2" opacity="0.6"/>
+        <!-- Gateway -->
+        <rect x="85" y="100" width="30" height="8" rx="2" fill="#8DC63F" opacity="0.7"/>
+        <text x="100" y="107" text-anchor="middle" fill="#111" font-size="5" font-weight="bold">GATEWAY</text>
+        <!-- Cloud connection -->
+        <path d="M 170 40 Q 165 35 158 38 Q 156 30 148 32 Q 146 25 138 30 Q 134 25 132 30 Q 126 27 126 35 Q 124 40 130 42 L 170 42 Q 175 42 175 37 Q 175 32 170 40" fill="none" stroke="#8DC63F" stroke-width="1" opacity="0.6"/>
+        <line x1="155" y1="100" x2="155" y2="42" stroke="#8DC63F" stroke-width="0.8" stroke-dasharray="4,3" opacity="0.4"/>
+        <line x1="100" y1="108" x2="155" y2="100" stroke="#8DC63F" stroke-width="0.8" opacity="0.4"/>
+      </svg>
+    </div>
+    <div class="card-body">
+      <h3>A — SVG-illustratie</h3>
+      <p>Stilistische tekening van een gebouw met sensoren, datalijnen en cloud. Uniek, merkspecifiek, licht/donker aanpasbaar. Vraagt om maatwerk.</p>
+    </div>
+  </div>
+
+  <div class="card" data-choice="b" onclick="toggleSelect(this)">
+    <div class="card-image" style="background:#0d0d0d; padding:20px; font-family:sans-serif; border-radius:6px; min-height:160px; overflow:hidden; position:relative;">
+      <!-- Abstract grid/mesh visual -->
+      <svg width="100%" height="140" viewBox="0 0 240 140" xmlns="http://www.w3.org/2000/svg" style="position:absolute;top:0;left:0;">
+        <!-- Grid dots -->
+        <g opacity="0.25">
+          <circle cx="20" cy="20" r="1.5" fill="#8DC63F"/>
+          <circle cx="50" cy="20" r="1.5" fill="#8DC63F"/>
+          <circle cx="80" cy="20" r="1.5" fill="#8DC63F"/>
+          <circle cx="110" cy="20" r="1.5" fill="#8DC63F"/>
+          <circle cx="140" cy="20" r="1.5" fill="#8DC63F"/>
+          <circle cx="170" cy="20" r="1.5" fill="#8DC63F"/>
+          <circle cx="200" cy="20" r="1.5" fill="#8DC63F"/>
+          <circle cx="20" cy="50" r="1.5" fill="#8DC63F"/>
+          <circle cx="50" cy="50" r="1.5" fill="#8DC63F"/>
+          <circle cx="80" cy="50" r="1.5" fill="#8DC63F"/>
+          <circle cx="110" cy="50" r="1.5" fill="#8DC63F"/>
+          <circle cx="140" cy="50" r="1.5" fill="#8DC63F"/>
+          <circle cx="170" cy="50" r="1.5" fill="#8DC63F"/>
+          <circle cx="20" cy="80" r="1.5" fill="#8DC63F"/>
+          <circle cx="50" cy="80" r="1.5" fill="#8DC63F"/>
+          <circle cx="80" cy="80" r="1.5" fill="#8DC63F"/>
+          <circle cx="110" cy="80" r="1.5" fill="#8DC63F"/>
+          <circle cx="140" cy="80" r="1.5" fill="#8DC63F"/>
+          <circle cx="20" cy="110" r="1.5" fill="#8DC63F"/>
+          <circle cx="50" cy="110" r="1.5" fill="#8DC63F"/>
+          <circle cx="80" cy="110" r="1.5" fill="#8DC63F"/>
+        </g>
+        <!-- Connecting lines (network) -->
+        <g stroke="#8DC63F" stroke-width="0.8" opacity="0.3">
+          <line x1="20" y1="20" x2="80" y2="50"/>
+          <line x1="80" y1="50" x2="140" y2="20"/>
+          <line x1="140" y1="20" x2="170" y2="50"/>
+          <line x1="50" y1="50" x2="80" y2="80"/>
+          <line x1="80" y1="80" x2="110" y2="50"/>
+          <line x1="110" y1="50" x2="140" y2="80"/>
+          <line x1="50" y1="80" x2="20" y2="110"/>
+          <line x1="80" y1="80" x2="50" y2="110"/>
+        </g>
+        <!-- Highlighted nodes (sensors) -->
+        <circle cx="80" cy="50" r="4" fill="#8DC63F" opacity="0.9"/>
+        <circle cx="80" cy="50" r="9" fill="none" stroke="#8DC63F" stroke-width="1" opacity="0.4"/>
+        <circle cx="140" cy="20" r="4" fill="#8DC63F" opacity="0.9"/>
+        <circle cx="140" cy="20" r="9" fill="none" stroke="#8DC63F" stroke-width="1" opacity="0.4"/>
+        <circle cx="110" cy="80" r="4" fill="#8DC63F" opacity="0.9"/>
+        <!-- Data flow line -->
+        <line x1="80" y1="50" x2="200" y2="80" stroke="#8DC63F" stroke-width="1.5" opacity="0.7" stroke-dasharray="5,3"/>
+        <circle cx="200" cy="80" r="5" fill="none" stroke="#8DC63F" stroke-width="1.5" opacity="0.7"/>
+      </svg>
+      <div style="position:relative; z-index:1; padding-top:90px; text-align:center; color:#8DC63F; font-size:9px; font-weight:700; letter-spacing:2px; opacity:0.7;">SENSORNETWERK · REALTIME DATA</div>
+    </div>
+    <div class="card-body">
+      <h3>B — Abstract netwerk</h3>
+      <p>Verbonden knooppunten als metafoor voor sensornetwerken. Modern, tech-achtig, eenvoudig te genereren met SVG/CSS. Tijdloos.</p>
+    </div>
+  </div>
+
+  <div class="card" data-choice="c" onclick="toggleSelect(this)">
+    <div class="card-image" style="background:#111; padding:20px; font-family:sans-serif; border-radius:6px; min-height:160px; display:flex; flex-direction:column; justify-content:center;">
+      <!-- Dashboard UI mockup -->
+      <div style="background:#1a1a1a; border-radius:6px; padding:12px; border:1px solid #333;">
+        <div style="display:flex; justify-content:space-between; align-items:center; margin-bottom:10px;">
+          <div style="font-size:9px; color:#aaa; font-weight:600; letter-spacing:1px;">LIVE DASHBOARD</div>
+          <div style="width:6px; height:6px; background:#8DC63F; border-radius:50%;"></div>
+        </div>
+        <div style="display:flex; gap:6px; margin-bottom:8px;">
+          <div style="flex:1; background:#222; border-radius:4px; padding:8px;">
+            <div style="font-size:8px; color:#666; margin-bottom:2px;">CO₂</div>
+            <div style="font-size:16px; font-weight:700; color:#8DC63F;">412</div>
+            <div style="font-size:7px; color:#555;">ppm · goed</div>
+          </div>
+          <div style="flex:1; background:#222; border-radius:4px; padding:8px;">
+            <div style="font-size:8px; color:#666; margin-bottom:2px;">Temp.</div>
+            <div style="font-size:16px; font-weight:700; color:#fff;">21.4°</div>
+            <div style="font-size:7px; color:#555;">C · comfortabel</div>
+          </div>
+          <div style="flex:1; background:#222; border-radius:4px; padding:8px;">
+            <div style="font-size:8px; color:#666; margin-bottom:2px;">Bezetting</div>
+            <div style="font-size:16px; font-weight:700; color:#fff;">67%</div>
+            <div style="font-size:7px; color:#555;">14/21 plekken</div>
+          </div>
+        </div>
+        <!-- Mini chart -->
+        <div style="background:#222; border-radius:4px; padding:8px; height:28px; display:flex; align-items:flex-end; gap:2px;">
+          <div style="flex:1; background:#8DC63F; height:40%; border-radius:1px; opacity:0.6;"></div>
+          <div style="flex:1; background:#8DC63F; height:60%; border-radius:1px; opacity:0.7;"></div>
+          <div style="flex:1; background:#8DC63F; height:45%; border-radius:1px; opacity:0.6;"></div>
+          <div style="flex:1; background:#8DC63F; height:80%; border-radius:1px; opacity:0.9;"></div>
+          <div style="flex:1; background:#8DC63F; height:70%; border-radius:1px; opacity:0.8;"></div>
+          <div style="flex:1; background:#8DC63F; height:55%; border-radius:1px; opacity:0.7;"></div>
+          <div style="flex:1; background:#8DC63F; height:90%; border-radius:1px; opacity:1;"></div>
+          <div style="flex:1; background:#8DC63F; height:65%; border-radius:1px; opacity:0.8;"></div>
+        </div>
+      </div>
+    </div>
+    <div class="card-body">
+      <h3>C — Dashboard UI-preview</h3>
+      <p>Mockup van het data-dashboard zelf als hero-visual. Laat direct zien wat klanten krijgen. Concreet, overtuigend — "show, don't tell".</p>
+    </div>
+  </div>
+
+</div>
+
+<p class="subtitle" style="margin-top:20px;">Klik een optie of combineer in de terminal.</p>

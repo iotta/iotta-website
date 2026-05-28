@@ -1,0 +1,57 @@
+================================================================================
+HERO SECTIE (~80vh)
+================================================================================
++------------------------------------------------------------------------------+
+|                                                                              |
+|   # METEN ZONDER ZORGEN.                                                     |
+|                                                     +--------------------+   |
+|   Wij leveren end-to-end IoT-oplossingen.           |                    |   |
+|   Van hardware tot installatie, datastromen en      |    [ ABSTRACTE ]   |   |
+|   geavanceerde AI-analyses voor jouw vastgoed.      |   [ ILLUSTRATIE ]  |   |
+|                                                     |                    |   |
+|   [ Bekijk onze diensten ]   [ Neem contact op ]    |                    |   |
+|                                                     +--------------------+   |
+|                                                                              |
++------------------------------------------------------------------------------+
+
+================================================================================
+SECTIE: DE DRIE PIJLERS (3-kolommen grid)
+================================================================================
++------------------------------------------------------------------------------+
+|                                                                              |
+|   +----------------------+  +----------------------+  +------------------+   |
+|   | ( Icoon Sensor )     |  | ( Icoon Handshake )  |  | ( Icoon Brein )  |   |
+|   | SENSING AS A SERVICE |  | PARTNERING           |  | AI & ANALYSE     |   |
+|   |                      |  |                      |  | [In ontwikkeling]|   |
+|   | Van hardware tot     |  | Integreer onze data  |  | Haal meer uit    |   |
+|   | dashboard. U zegt    |  | naadloos in uw eigen |  | uw data met      |   |
+|   | wat u wilt meten,    |  | softwareomgevingen.  |  | voorspellende AI.|   |
+|   | wij regelen de rest. |  |                      |  |                  |   |
+|   |                      |  |                      |  |                  |   |
+|   | [ Lees meer -> ]     |  | [ Lees meer -> ]     |  | [ Lees meer -> ] |   |
+|   +----------------------+  +----------------------+  +------------------+   |
+|                                                                              |
++------------------------------------------------------------------------------+
+
+================================================================================
+SECTIE: SOCIAL PROOF
+================================================================================
++------------------------------------------------------------------------------+
+|   Vertrouwd door organisaties in zorg, onderwijs en vastgoed:                |
+|   [Logo 1]    [Logo 2]    [Logo 3]    [Logo 4]    [Logo 5]    [Logo 6]       |
+|                                                                              |
+|   Naadloze integraties met onder andere:                                     |
+|   [HACCP Live]         [Planon]         [Lone Rooftop]                       |
++------------------------------------------------------------------------------+
+
+================================================================================
+SECTIE: QUOTE / TESTIMONIAL
+================================================================================
++------------------------------------------------------------------------------+
+|                                      "                                       |
+|         Sinds we met iotta werken, hebben we 100% inzicht in ons             |
+|         binnenklimaat zonder dat onze IT-afdeling er omkijken naar heeft.    |
+|         Het werkt simpelweg altijd.                                          |
+|                                                                              |
+|         - Jan Jansen, Facility Manager @ Voorbeeld Zorg                      |
++------------------------------------------------------------------------------+

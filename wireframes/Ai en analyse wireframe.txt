@@ -1,0 +1,28 @@
+================================================================================
+HERO SECTIE
+================================================================================
++------------------------------------------------------------------------------+
+|  # AI & ANALYSE [ LABEL: IN ONTWIKKELING ]                                   |
+|  Van achteraf meten naar vooruit voorspellen.                                |
+|                                                                              |
+|  Data verzamelen is stap één. Met onze aankomende AI-modellen helpen we      |
+|  organisaties om patronen te ontdekken voordat problemen zich voordoen.      |
++------------------------------------------------------------------------------+
+
+================================================================================
+SECTIE: FUNCTIES (2-kolommen lijst + Grote UI Placeholder)
+================================================================================
++------------------------------------------------------------------------------+
+|  +-----------------------------------+  +----------------------------------+ |
+|  | WAT U KUNT VERWACHTEN:            |  |                                  | |
+|  |                                   |  |  [ Wireframe UI van grafiek ]    | |
+|  | - Voorspellend Onderhoud          |  |  [ met trendlijnen en alert ]    | |
+|  |   HVAC-systemen proactief sturen. |  |  [ pop-ups (abstract)       ]    | |
+|  |                                   |  |                                  | |
+|  | - Anomaly Detection               |  |                                  | |
+|  |   Directe alerts bij afwijkende   |  |                                  | |
+|  |   patronen in klimaat of energie. |  |                                  | |
+|  |                                   |  |                                  | |
+|  | [ Doe mee aan de Pilot-fase ]     |  |                                  | |
+|  +-----------------------------------+  +----------------------------------+ |
++------------------------------------------------------------------------------+

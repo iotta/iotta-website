@@ -1,0 +1,24 @@
+================================================================================
+HERO & MISSIE SECTIE (Gecentreerd)
+================================================================================
++------------------------------------------------------------------------------+
+|                               # OVER IOTTA                                   |
+|                                                                              |
+|   Gevestigd in Rijswijk, opgericht met één duidelijke missie: het vangen     |
+|   van fysieke data extreem makkelijk maken voor elke organisatie.            |
++------------------------------------------------------------------------------+
+
+================================================================================
+SECTIE: ONS VERHAAL (Links tekst, Rechts teamfoto)
+================================================================================
++------------------------------------------------------------------------------+
+|  +-----------------------------------+  +----------------------------------+ |
+|  | DE COMPLEXITEIT UIT IOT HALEN     |  |                                  | |
+|  | Vaak stranden IoT-projecten op    |  |                                  | |
+|  | verbindingsproblemen, batterijen  |  |    [ Placeholder Teamfoto ]      | |
+|  | of IT-integraties. Wij besloten   |  |    [ of kantoor Rijswijk  ]      | |
+|  | dat dit anders moest. Met iotta   |  |                                  | |
+|  | nemen we de volledige keten uit   |  |                                  | |
+|  | handen.                           |  |                                  | |
+|  +-----------------------------------+  +----------------------------------+ |
++------------------------------------------------------------------------------+

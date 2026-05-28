@@ -1,0 +1,37 @@
+================================================================================
+HERO SECTIE
+================================================================================
++------------------------------------------------------------------------------+
+|  # SENSING AS A SERVICE                                                      |
+|  U zegt wat u wilt meten, wij regelen de rest.                               |
+|                                                                              |
+|  Geen gedoe met batterijen, netwerkverbindingen of falende hardware. Wij     |
+|  leveren de datastroom die u nodig heeft als een abonnement.                 |
++------------------------------------------------------------------------------+
+
+================================================================================
+SECTIE: WAT IS INBEGREPEN (Horizontale stappen)
+================================================================================
++------------------------------------------------------------------------------+
+|  [Icoon]       [Icoon]       [Icoon]       [Icoon]       [Icoon]   [Icoon]   |
+|  Sensoren      Infra.        Plaatsing     Dashboard     Onderhoud Veiligheid|
++------------------------------------------------------------------------------+
+
+================================================================================
+SECTIE: BESCHIKBARE METINGEN (3-koloms grid van cards)
+================================================================================
++------------------------------------------------------------------------------+
+|  +-----------------------+ +-----------------------+ +---------------------+ |
+|  | ( Icoon Thermometer ) | | ( Icoon Poppetje )    | | ( Icoon Deur )      | |
+|  | Binnenklimaat         | | Bezetting             | | Toegang / Deuren    | |
+|  | CO2, temp, RH, licht  | | PIR-sensoren en       | | Open/dicht status   | |
+|  | en fijnstof.          | | bureaubezetting.      | | van deuren en ramen.| |
+|  +-----------------------+ +-----------------------+ +---------------------+ |
+|                                                                              |
+|  +-----------------------+ +-----------------------+ +---------------------+ |
+|  | ( Icoon Druppel )     | | ( Icoon Stekker )     | | ( Icoon Plus )      | |
+|  | Lekkage               | | Energie & Water       | | Maatwerk            | |
+|  | Directe melding bij   | | Uitlezen van slimme   | | Specifieke wens?    | |
+|  | vochtdetectie.        | | en pulstellers.       | | Wij regelen de node.| |
+|  +-----------------------+ +-----------------------+ +---------------------+ |
++------------------------------------------------------------------------------+
